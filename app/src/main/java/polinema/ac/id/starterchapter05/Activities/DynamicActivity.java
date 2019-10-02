@@ -47,4 +47,5 @@ public class DynamicActivity extends AppCompatActivity {
             fragmentTransaction.commit();
         }
     }
+
 }
